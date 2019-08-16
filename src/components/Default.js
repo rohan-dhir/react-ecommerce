@@ -4,7 +4,7 @@ export default class Default extends Component {
     render() {
         return (
             <div>
-                This is the default component.
+                Page Not Found.
             </div>
         )
     }
