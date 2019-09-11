@@ -1,4 +1,3 @@
-//Details of item added to cart.
 import React from 'react'
 import { Link } from 'react-router-dom';
 

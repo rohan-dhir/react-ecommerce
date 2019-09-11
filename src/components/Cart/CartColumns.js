@@ -1,4 +1,3 @@
-//Layout of the Cart Page
 import React from 'react'
 
 export default function CartColumns() {
